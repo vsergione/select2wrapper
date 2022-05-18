@@ -1,0 +1,19 @@
+{
+  "name": "select2wrapper",
+  "version": "1.0.0",
+  "description": "Custom wrapper for Select2 JQuery plugin",
+  "main": "select2wrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsergione/select2wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsergione/select2wrapper/issues"
+  },
+  "homepage": "https://github.com/vsergione/select2wrapper#readme"
+}
